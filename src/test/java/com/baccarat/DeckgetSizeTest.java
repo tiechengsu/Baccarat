@@ -1,4 +1,4 @@
-package dummy;
+package com.baccarat;
 
 import static org.junit.Assert.*;
 
